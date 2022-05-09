@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoMapsSeg</string>
+    <string name="bellini">Bellini</string>
+    <string name="sonora_grill">Sonora\nGrill</string>
+    <string name="chillis">Chillis</string>
+    <string name="cambalache">Cambal-ache</string>
+</resources>
